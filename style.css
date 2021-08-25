@@ -9,6 +9,7 @@ color:navy;
 float:left;
 padding-left:40px;
 padding-right:40px;
+text-shadow:1px 0.5px black;
 }
 .a
 {
@@ -35,4 +36,34 @@ background-color:palegoldenrod;
 }
 .pha h2:active{
     color:green;
+}
+#original{
+width:39%;
+height:auto;
+float:left;
+}
+#hemtext
+{
+font-size:xx-large;
+margin-top:100px;
+border-style:solid;
+border-color:black;
+border-width:10px;
+}
+#our
+{
+text-align:center;
+margin-top:20px;
+}
+.pro
+{
+font-size:x-large;
+margin-top:20px;
+margin-left:20px;
+}
+#originaltwo
+{
+width:10%;
+height:auto;
+float:left;
 }
