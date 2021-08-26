@@ -1,6 +1,7 @@
 *{
 margin:0;
 padding:0;
+background-image:url(https://www.oem-eftermontering.se/wp-content/uploads/2013/01/white-wallpaper-18.png);
 }
 
 .h
@@ -38,9 +39,12 @@ background-color:palegoldenrod;
     color:green;
 }
 #original{
-width:39%;
+width:35%;
 height:auto;
 float:left;
+border-style:solid;
+border-color:black;
+border-width:4px;
 }
 #hemtext
 {
@@ -60,10 +64,68 @@ margin-top:20px;
 font-size:x-large;
 margin-top:20px;
 margin-left:20px;
+text-shadow:red 0.5px 1px;
 }
-#originaltwo
+.originaltwo
 {
 width:10%;
 height:auto;
 float:left;
+border-style:solid;
+border-color:black;
+border-width:4px;
+margin-left:20px;
+}
+#sco
+{
+font-size:x-large;
+text-shadow:lime 0.5px 1px;
+}
+#pap
+{
+font-size:x-large;
+text-shadow:orange 0.5px 1px;
+}
+#ket
+{
+font-size:x-large;
+text-shadow:blue 0.5px 1px;
+}
+#che
+{
+font-size:x-large;
+text-shadow:green 0.5px 1px;
+}
+#sal
+{
+font-size:x-large;
+text-shadow:teal 0.5px 1px; 
+}
+#ched{
+    font-size:x-large;
+    text-shadow:yellow 0.5px 1px;
+}
+#bbq{
+    font-size:x-large;
+    text-shadow:purple 0.5px 1px;
+}
+#winner{
+    width:63.5%;
+    height:auto;
+    float:left;
+    border-style:solid;
+    border-color:black;
+    border-width:5px;
+}
+.abo{
+    font-size:large;
+    margin-top:20px;
+    text-shadow:red 0.2px 0.5px;
+    margin-right:10px;
+    margin-left:10px;
+}
+#abou{
+    margin-top:20px;
+    text-align:center;
+    text-shadow:red 0.2px 0.5px;
 }
